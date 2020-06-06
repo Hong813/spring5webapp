@@ -1,7 +1,11 @@
+<<<<<<< Updated upstream
 package guru.springframework.spring5webapp.domain;
 
 
+import guru.springframework.spring5webapp.domain.Book;
+
 import javax.persistence.*;
+
 import java.util.Set;
 
 
@@ -60,3 +64,9 @@ public class Author {
         this.books = books;
     }
 }
+=======
+package guru.springframework.spring5webapp.domain;
+
+public class Author {
+}
+>>>>>>> Stashed changes
